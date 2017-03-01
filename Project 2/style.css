@@ -20,3 +20,9 @@ header, div, nav, section, footer {
 body {
 	line-height: 1;
 }
+
+h1 {
+	background-color: #e6e6fa
+	font-family: "Helvectica", sans-serif
+	text-align: left
+}
