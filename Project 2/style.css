@@ -1,7 +1,7 @@
 /*Grey background, black text*/
 
 html {
-      background-color: #e9e9e9;
+      background-color: #F5F5F5;
       font-family: "Helvectica", sans-serif;
       font-size: 100%;
       font: inherit;
@@ -18,12 +18,12 @@ header, div, nav, section, footer {
 }
 
 body {
-	background-color: #e9e9e9
+	background-color: #F5F5F5
 	line-height: 1;
 }
 
 h1 {
-	background-color: #e6e6fa;
+	background-color: #E6E6FA;
 	font-family: "Helvectica", sans-serif;
 	text-align: left;
 }
