@@ -23,6 +23,7 @@ body{
 nav{
 	background-color: powderblue;
 	font-family: "Helvectica", sans-serif;
+	width: 100%;
 	text-align: center;
 }
 
@@ -30,6 +31,7 @@ header{
 	background-color: #E6E6FA;
 	font-family: "Helvectica", sans-serif;
 	font-size: 2em;
+	width: 100%;
 	text-align: center;
 }
 
