@@ -22,12 +22,12 @@ body{
 nav{
 	background-color: powderblue;
 	font-family: "Helvectica", sans-serif;
-	height: 200%;
 }
 
 header{
 	background-color: #E6E6FA;
 	font-family: "Helvectica", sans-serif;
+	font-size: 2em;
 	text-align: left;
 }
 
