@@ -11,7 +11,7 @@ html{
 
 /*display as block*/
 
-header, body, nav, footer {
+header, body, nav, footer, h1 {
 	display: block;
 	height: 100%;
 	margin: auto;
@@ -33,6 +33,11 @@ header{
 	background-color: #E6E6FA;
 	font-family: "Helvectica", sans-serif;
 	font-size: 2em;
+	text-align: center;
+}
+
+h1{
+	background-color: #F781D8;
 	text-align: center;
 }
 
