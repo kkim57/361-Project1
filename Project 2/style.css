@@ -13,6 +13,8 @@ html{
 
 header, body, nav {
 	display: block;
+	height: 100%;
+	width: 50%;
 	margin: auto;
 }
 
@@ -24,7 +26,6 @@ body{
 nav{
 	background-color: powderblue;
 	font-family: "Helvectica", sans-serif;
-	width: 100%;
 	text-align: center;
 }
 
@@ -32,7 +33,6 @@ header{
 	background-color: #E6E6FA;
 	font-family: "Helvectica", sans-serif;
 	font-size: 2em;
-	width: 100%;
 	text-align: center;
 }
 
