@@ -14,13 +14,13 @@ html{
 header, body, nav {
 	display: block;
 	height: 100%;
-	width: 100%;
 	margin: auto;
 }
 
 body{
 	background-color: #e9e9e9;
 	font-family: "Helvectica", sans-serif;
+	width: 50%;
 }
 
 nav{
