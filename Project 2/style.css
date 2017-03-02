@@ -1,11 +1,12 @@
 html{
-      font-family: "Helvectica", sans-serif;
-      height: 100%;
-      font: inherit;
-      margin: 0;
-      padding: 0;
-      border: 0;
-      vertical-align: baseline;
+ 	 vertical-align: baseline;
+ 	 font-weight: inherit;
+	 font-style: inherit;
+	 font-size: inherit;
+	 border: 0 none;
+ 	 outline: 0;
+ 	 padding: 0;
+ 	 margin: 0;
 }
 
 /*display as block*/
