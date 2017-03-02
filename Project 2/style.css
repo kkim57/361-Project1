@@ -11,7 +11,7 @@ html{
 
 /*display as block*/
 
-header, body, nav {
+header, body, nav, footer {
 	display: block;
 	height: 100%;
 	margin: auto;
@@ -33,6 +33,12 @@ header{
 	background-color: #E6E6FA;
 	font-family: "Helvectica", sans-serif;
 	font-size: 2em;
+	text-align: center;
+}
+
+Footer{
+	background-color: #E6E6FA;
+	font-family: "Helvectica", sans-serif;
 	text-align: center;
 }
 
