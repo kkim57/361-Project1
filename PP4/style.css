@@ -75,12 +75,16 @@ body{
 	font-family: "Calibri", sans-serif;
 }
 
+h1{
+	height: 2em;
+}
+
 table {
     width: 960px;
 }
 
 th {
-    height: 192px;
+    width: 192px;
 }
 
 td {
