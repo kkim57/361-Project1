@@ -49,3 +49,41 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* Styling begins here */
+
+html{
+ 	 vertical-align: baseline;
+ 	 font-weight: inherit;
+	 font-style: inherit;
+	 font-size: inherit;
+	 border: 0 none;
+ 	 outline: 0;
+ 	 padding: 0;
+ 	 margin: auto;
+}
+
+/*display as block*/
+
+header, body, h1 {
+	display: block;
+	height: 100%;
+	margin: auto;
+}
+
+body{
+	background-color: #33FFBD;
+	font-family: "Calibri", sans-serif;
+}
+
+table {
+    width: 960px;
+}
+
+th {
+    height: 192px;
+}
+
+td {
+    padding: 15px;
+    text-align: left;
+}
