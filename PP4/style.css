@@ -76,11 +76,17 @@ body{
 }
 
 h1{
-	height: 2em;
+	font-size: 2em;
+	font-weight: bold
 }
 
 table {
     width: 960px;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
 }
 
 th {
