@@ -72,6 +72,7 @@ header, body, h1 {
 
 body{
 	background-color: #33FFBD;
+	width: 100%;
 	font-family: "Calibri", sans-serif;
 }
 
@@ -83,7 +84,7 @@ h1{
 table {
     	width: 960px;
     	border-collapse: collapse;
-	align: center;
+	margin: 0px auto;
 }
 
 table, th, td {
