@@ -81,19 +81,23 @@ h1{
 }
 
 table {
-    width: 960px;
-    border-collapse: collapse;
+    	width: 960px;
+    	border-collapse: collapse;
+	align: center;
 }
 
 table, th, td {
-    border: 1px solid black;
+    	border: 1px solid black;
 }
 
 th {
-    width: 192px;
+    	width: 192px;
+	height: 50px;
+	font-size: 18px;
+	font-weight: bold;
 }
 
 td {
-    padding: 15px;
-    text-align: left;
+    	padding: 15px;
+    	text-align: left;
 }
