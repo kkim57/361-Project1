@@ -94,8 +94,9 @@ table, th, td {
 th {
     	width: 192px;
 	height: 50px;
-	font-size: 18px;
+	font-size: 25px;
 	font-weight: bold;
+	vertical-align: center;
 }
 
 td {
